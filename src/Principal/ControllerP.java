@@ -1,8 +1,10 @@
-package com.telcel.csv.controllers;
-
-import BuscarArchivo.Buscando;
-import com.telcel.csv.services.Correos;
-import com.telcel.csv.services.DescargaServices;
+//package com.telcel.csv.controllers;
+package Principal;
+//import BuscarArchivo.Buscando;
+import Servicios.Correos;
+//import com.telcel.csv.services.Correos;
+//import com.telcel.csv.services.DescargaServices;
+import Servicios.DescargaServices;
 import java.io.IOException;
 import javax.mail.MessagingException;
 
